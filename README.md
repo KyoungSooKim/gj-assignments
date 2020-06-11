@@ -1,4 +1,4 @@
-# 1주차 과제 완료 (2020-06-11) 
+# 1주차 과제 (2020-06-11) 
 
 - [인공지능 사례 분석 ](https://github.com/KyoungSooKim/gj-assignments/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
 
